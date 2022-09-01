@@ -15,10 +15,10 @@
 
 Além disso, é necessário que o PATH do seu computador esteja configurando corretamente com o caminho do JAVA JDK 8.
 
-# Rodando os testes
+# Rodando os Testes
 💻 Acesse a pasta do projeto pelo seu terminal e execute o comando: robot -d ./logs tests/ 
 
-# Tecnologias usadas
+# Tecnologias Usadas
 - Android Studio
 - Appium
 - Appium Inspector
